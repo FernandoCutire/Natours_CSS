@@ -19,7 +19,7 @@
   
     &:hover {
       transform: translateY(-0.3rem);
-      box-shadow: 0 2rem 2rem rgba($color-black, 0.2);
+      box-shadow: 0 2rem 2rem rgba($color-black, 0.1);
   
       &::after {
           transform: scaleX(1.4) scaleY(1.6);
